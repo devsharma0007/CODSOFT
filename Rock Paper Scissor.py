@@ -44,12 +44,4 @@ while(n<1):
     continue
  else:
     print("Bye")
-    break 
- 
- 
- 
-
-
-
-
-
+    break
